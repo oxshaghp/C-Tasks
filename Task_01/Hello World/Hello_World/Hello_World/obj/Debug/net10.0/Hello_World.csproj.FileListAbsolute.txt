@@ -1,0 +1,14 @@
+D:\Depi\Tech\c#\Day01\Abdallah Atef\Hello World\Hello_World\Hello_World\bin\Debug\net10.0\Hello_World.exe
+D:\Depi\Tech\c#\Day01\Abdallah Atef\Hello World\Hello_World\Hello_World\bin\Debug\net10.0\Hello_World.deps.json
+D:\Depi\Tech\c#\Day01\Abdallah Atef\Hello World\Hello_World\Hello_World\bin\Debug\net10.0\Hello_World.runtimeconfig.json
+D:\Depi\Tech\c#\Day01\Abdallah Atef\Hello World\Hello_World\Hello_World\bin\Debug\net10.0\Hello_World.dll
+D:\Depi\Tech\c#\Day01\Abdallah Atef\Hello World\Hello_World\Hello_World\bin\Debug\net10.0\Hello_World.pdb
+D:\Depi\Tech\c#\Day01\Abdallah Atef\Hello World\Hello_World\Hello_World\obj\Debug\net10.0\Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+D:\Depi\Tech\c#\Day01\Abdallah Atef\Hello World\Hello_World\Hello_World\obj\Debug\net10.0\Hello_World.AssemblyInfoInputs.cache
+D:\Depi\Tech\c#\Day01\Abdallah Atef\Hello World\Hello_World\Hello_World\obj\Debug\net10.0\Hello_World.AssemblyInfo.cs
+D:\Depi\Tech\c#\Day01\Abdallah Atef\Hello World\Hello_World\Hello_World\obj\Debug\net10.0\Hello_World.csproj.CoreCompileInputs.cache
+D:\Depi\Tech\c#\Day01\Abdallah Atef\Hello World\Hello_World\Hello_World\obj\Debug\net10.0\Hello_World.dll
+D:\Depi\Tech\c#\Day01\Abdallah Atef\Hello World\Hello_World\Hello_World\obj\Debug\net10.0\refint\Hello_World.dll
+D:\Depi\Tech\c#\Day01\Abdallah Atef\Hello World\Hello_World\Hello_World\obj\Debug\net10.0\Hello_World.pdb
+D:\Depi\Tech\c#\Day01\Abdallah Atef\Hello World\Hello_World\Hello_World\obj\Debug\net10.0\Hello_World.genruntimeconfig.cache
+D:\Depi\Tech\c#\Day01\Abdallah Atef\Hello World\Hello_World\Hello_World\obj\Debug\net10.0\ref\Hello_World.dll
